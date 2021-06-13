@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Batman",
+      "number": "911-911-911",
+      "id": "id-1"
+    },
+    {
+      "name": "Winchesters",
+      "number": "666-666-666",
+      "id": "id-2"
+    },
+    {
+      "name": "Avengers",
+      "number": "123-456-789",
+      "id": "id-3"
+    }
+  ]
+}

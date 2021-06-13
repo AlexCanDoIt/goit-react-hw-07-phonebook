@@ -1,0 +1,9 @@
+.text {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.input {
+  display: block;
+  margin: 8px auto 0 auto;
+}

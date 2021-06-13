@@ -1,0 +1,12 @@
+.list {
+  padding: 0 400px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 6px;
+}
